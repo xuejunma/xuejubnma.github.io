@@ -46,7 +46,7 @@ email: yinuoyumi@163.com
 
 ### 以index.html为例说明。
 
-* 将所有***马学俊***的信息全部修改为自己的信息。如果不知道 其中的命令含义，而可以html常见命令，会有很详细的介绍。
+* 将所有***马学俊***的信息全部修改为自己的信息。
 * 图片修改，可以直接在仓库点击***profilepicturenew.jpg***，然后直接删掉；在点击***Uploads files*** 上传一个命名为***profilepicturenew.jpg***图片。
 
 ```php   
