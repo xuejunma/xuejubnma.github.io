@@ -5,15 +5,15 @@
 
 ## Fork 并且修改名字
 
-- 输入网址 https://github.com/xuejunma/xuejunma.github.io/ 并且点击 **Fork**. 这样xuejunma.github.io仓库就复制到您的仓库。
+- 输入网址 https://github.com/xuejunma/xuejunma.github.io/ 并且点击 **Fork**. xuejunma.github.io仓库便复制到您的仓库中。
 ***注意：*** 只有Fork到自己的仓库下才能修改内容
 
-- 点击 **seeting**  将 xuejunma.github.io 修改自己用户名，如 stamax360.github.io. 
+- 点击 **setting**  将 xuejunma.github.io 修改为自己用户名，如 stamax360.github.io. 
 
 
 
 ##  修改菜单栏 主页、简历、科研的链接
-打开 includes/header.html并且点击 🖊   进入编辑，将 ***xuejunma***全部修改为自己的用户名，如 ***stamax360***，***注意*** 修改一定要点击🖊   进入编辑，不然无法修改。
+打开 includes/header.html并且点击 🖊   进入编辑，将全部***xuejunma***修改为自己的用户名，如 ***stamax360***，***注意*** 修改一定要点击🖊   进入编辑中，不然无法修改。
 
 ```php 
 <li class="nav-link"><a href="{{ site.baseurl }}/" class="logo"><strong>主页</strong></a>
@@ -47,7 +47,7 @@ email: yinuoyumi@163.com
 ### 以index.html为例说明。
 
 * 将所有***马学俊***的信息全部修改为自己的信息。
-* 图片修改，可以直接在仓库界面点击***profilepicturenew.jpg***，然后直接删掉；再点击***Uploads files*** 上传一个命名为***profilepicturenew.jpg***图片。 ***注意*** 图片的名字一定是profilepicturenew.jpg，如果不是，将下面命令的名字修改为自己的图片名字。
+* 图片修改，在仓库界面点击***profilepicturenew.jpg***直接删掉；再点击***Uploads files*** 上传一个命名为***profilepicturenew.jpg***图片。 ***注意*** 图片的名字一定是profilepicturenew.jpg，如果不是，将下面命令的名字修改为自己的图片名字。
 
 ```php   
 ---
@@ -115,10 +115,10 @@ permalink: /xiuxian/
 ```
 
 ## html 命令
- 大家可以直接在搜索引擎中收索***html常见命令***
+ 大家可以直接在搜索引擎中收索***html常见命令***，会出现很多资料。
  
 ## 感谢
-特别感谢[Pesoto](https://pesoto.github.io/)，这个模板是有他创作的。
+特别感谢[Pesoto](https://pesoto.github.io/)创作模板。
 
 目前网页基本属于自己的，其他的修改，如果有任何问题麻烦邮箱联系我。 
 
