@@ -24,6 +24,20 @@
 <li class="nav-link"><a href="https://xuejunma.github.io/englishversion"><strong>ENGLISHVERSION</strong></a>
 ```
 
+## 修改全局配置
+打开config.yml，将马学俊，邮箱等信息修改为自己的信息。如将***马学俊***修改自己的名字，如一诺9257.
+
+```php
+# Site settings
+# 站点名字，也就是html的title 会显示在浏览器标签上。
+title: 马学俊
+#name: 马学俊
+# 站点副标题，会显示在首页上，可以不填。
+subtitle: 博后
+email: yinuoyumi@163.com
+
+```
+
 ## 菜单栏
 主页、简历等菜单栏可以在 includes/header.html 修改
 
