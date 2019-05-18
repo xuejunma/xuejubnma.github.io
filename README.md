@@ -71,6 +71,25 @@ title: <font face="Kaiti"> 马学俊 </font>
 ## 修改社交账号
 网页下面的社交平台  includes/footer.html修改
 
+* 修改***yinuoyumi@163.com***  
+* 将全部***xuejunma***修改为自己用户名，如stamax360
+* 将***苏州大学数学科学学院***修改自己的单位，如东吴大学数学科学学院。
+* 如果添加新的社交账号，复制三个中的一个，修改网址和名称即可。
+```php
+
+<div class="site-navigation">
+      <p><a href="mailto:yinuoyumi@163.com"><i class="fa fa-envelope"></i> E-mail</a></p>
+</div>
+
+<div class="site-contact">
+      <p><a href="https://github.com/xuejunma/xuejunma.github.io/"><i class="fa fa-github"></i> GitHub</a></p>
+</div>
+
+<div class="site-signature">
+      <p><a href="http://math.suda.edu.cn/"><i class="fa fa-linkedin-square"></i> 苏州大学数学科学学院</a></p>
+</div>
+```
+
 ## 全局配置
 可以在config.yml设置标题等。
 
