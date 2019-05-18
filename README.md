@@ -13,7 +13,7 @@
 
 
 ##  修改菜单栏 主页、简历、科研的链接
-打开 includes/header.html并且点击 🖊   进入编辑，***将 ***xuejunma***全部修改为自己的用户名，如***stamax360***，***注意*** 修改一定要点击🖊   进入编辑，不然无法修改。
+打开 includes/header.html并且点击 🖊   进入编辑，将 ***xuejunma***全部修改为自己的用户名，如 ***stamax360***，***注意*** 修改一定要点击🖊   进入编辑，不然无法修改。
 
 ```php 
 <li class="nav-link"><a href="{{ site.baseurl }}/" class="logo"><strong>主页</strong></a>
