@@ -117,7 +117,8 @@ permalink: /xiuxian/
 ## html 命令
  大家可以直接在搜索引擎中收索***html常见命令***
  
-***感谢*** 特别感谢[pesoto](https://pesoto.github.io/)，这个模板是有他创作的。
+## 感谢
+特别感谢[Pesoto](https://pesoto.github.io/)，这个模板是有他创作的。
 
 目前网页基本属于自己的，其他的修改，如果有任何问题麻烦邮箱联系我。 
 
