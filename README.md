@@ -1,7 +1,7 @@
 # 网页制作介绍
 
 ## 注册github账号
-输入网址https://github.com/ 注册一个账号，假设用户名是stamax360. *需要注意* 用户名是唯一并且不可以修改，并且主页网址 https://用户名.github.io/ 。 
+输入网址https://github.com/ 注册一个账号，假设用户名是stamax360. ***需要注意*** 用户名是唯一并且不可以修改，并且主页网址 https://用户名.github.io/ 。 
 
 ## Fork 并且修改名字
 
