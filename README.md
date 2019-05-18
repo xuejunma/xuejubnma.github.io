@@ -101,7 +101,7 @@ title: <font face="Kaiti"> 马学俊 </font>
 * 打开 includes/header.html，点击编辑，输入下面内容保存； 
 
 ```php 
-<li class="nav-link"><a href="https://xuejunma.github.io/xiuxian.html"><strong>休闲</strong></a>
+<li class="nav-link"><a href="https://用户名.github.io/xiuxian.html"><strong>休闲</strong></a>
 
 ```
 
