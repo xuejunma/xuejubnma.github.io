@@ -47,7 +47,7 @@ email: yinuoyumi@163.com
 ### 以index.html为例说明。
 
 * 将所有***马学俊***的信息全部修改为自己的信息。
-* 图片修改，可以直接在仓库点击***profilepicturenew.jpg***，然后直接删掉；在点击***Uploads files*** 上传一个命名为***profilepicturenew.jpg***图片。
+* 图片修改，可以直接在仓库界面点击***profilepicturenew.jpg***，然后直接删掉；再点击***Uploads files*** 上传一个命名为***profilepicturenew.jpg***图片。 ***注意*** 图片的名字一定是profilepicturenew.jpg，如果不是，将下面命令的名字修改为自己的图片名字。
 
 ```php   
 ---
@@ -71,7 +71,7 @@ title: <font face="Kaiti"> 马学俊 </font>
 
 
 ## 修改社交账号
-网页下面的社交平台  includes/footer.html修改
+网页下面的社交平台在includes/footer.html修改
 
 * 修改***yinuoyumi@163.com***  
 * 将全部***xuejunma***修改为自己用户名，如stamax360
@@ -94,6 +94,7 @@ title: <font face="Kaiti"> 马学俊 </font>
 
 ##  删减菜单栏 主页、简历、科研等界面
 
+### 删去， 直接删去即可
 ### 新建 *** 休闲*** 界面 
 * 打开 includes/header.html，点击编辑，输入下面内容保存； 
 
@@ -113,6 +114,11 @@ permalink: /xiuxian/
 ---
 ```
 
+## html 命令
+ 大家可以直接在搜索引擎中收索***html常见命令***
+ 
+***感谢*** 特别感谢[pesoto](https://pesoto.github.io/)，这个模板是有他创作的。
 
+目前网页基本属于自己的，其他的修改，如果有任何问题可以邮箱联系我。 
 
 
