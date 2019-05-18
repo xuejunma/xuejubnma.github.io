@@ -33,7 +33,7 @@
 title: 马学俊
 #name: 马学俊
 # 站点副标题，会显示在首页上，可以不填。
-subtitle: 博后
+subtitle: 
 email: yinuoyumi@163.com
 ```
 
