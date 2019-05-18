@@ -14,6 +14,7 @@
 
 ##  修改菜单栏 主页、简历、科研的链接
 打开 includes/header.html 将 ***xuejunma***全部修改为自己的用户名，如***stamax360***
+* 新建 *** 休闲*** 菜单，那么复制***教学***，然后粘贴，修改相应内容
 
 ```php 
 <li class="nav-link"><a href="{{ site.baseurl }}/" class="logo"><strong>主页</strong></a>
@@ -92,13 +93,27 @@ title: <font face="Kaiti"> 马学俊 </font>
 </div>
 ```
 
-## 全局配置
-可以在config.yml设置标题等。
+##  删减菜单栏 主页、简历、科研等界面
 
-## 页面内容
-* index.html 修改主页
-* aboutme.html 修改简历
-* research.html 修改科研等
-在点击***Create new file*** 并且明明为
+### 新建 *** 休闲*** 界面 
+* 打开 includes/header.html，点击编辑，输入下面内容保存； 
+
+```php 
+<li class="nav-link"><a href="https://xuejunma.github.io/xiuxian.html"><strong>休闲</strong></a>
+
+```
+
+* 回到仓库主页面，点击***Create new file***，并且命令为xiuxian.html;
+* 点击xiuxian.html，进入编辑页面，输入下面内容。
+
+```php
+---
+layout: page
+title:  " "
+permalink: /xiuxian/
+---
+```
+
+
 
 
