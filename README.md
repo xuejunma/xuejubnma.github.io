@@ -36,7 +36,33 @@ title: 马学俊
 subtitle: 博后
 email: yinuoyumi@163.com
 
-```
+## 页面内容
+
+```php   
+---
+layout: page
+title: <font face="Kaiti"> 马学俊 </font>
+---
+<div class="home">
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108085250-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-108085250-1');
+</script>
+
+<img src="profilepicturenew.jpg" alt="stmax pic" style="width:200px;height:220px;" title="stamax "; algin="middle">
+<br>
+博后
+<br>
+统计与应用概率系
+<br>
+新加坡国立大学
+<br>
+邮箱: yinuoyumi@163.com
+
+```php
 
 ## 菜单栏
 主页、简历等菜单栏可以在 includes/header.html 修改
