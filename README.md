@@ -12,6 +12,17 @@
 
 
 
+##  打开 includes/header.html 将 xuejunma全部修改为自己的用户名，如stamax360
+
+(```)
+      <li class="nav-link"><a href="{{ site.baseurl }}/" class="logo"><strong>主页</strong></a>
+      <li class="nav-link"><a href="https://stamax360.github.io/aboutme"><strong>简历</strong></a>
+      <li class="nav-link"><a href="https://xuejunma.github.io/research"><strong>科研</strong></a>
+      <li class="nav-link"><a href="https://xuejunma.github.io/teaching"><strong>教学</strong></a>
+      <li class="nav-link"><a href="https://xuejunma.github.io/yanxitang"><strong>言蹊堂</strong></a>
+      <li class="nav-link"><a href="https://xuejunma.github.io/englishversion"><strong>ENGLISHVERSION</strong></a>
+(```)
+
 ## 菜单栏
 主页、简历等菜单栏可以在 includes/header.html 修改
 
