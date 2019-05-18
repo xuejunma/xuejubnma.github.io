@@ -13,8 +13,7 @@
 
 
 ##  修改菜单栏 主页、简历、科研的链接
-打开 includes/header.html并且点击 🖊   进入编辑，***将 ***xuejunma***全部修改为自己的用户名，如***stamax360***
-* 新建 *** 休闲*** 菜单，那么复制***教学***，然后粘贴，修改相应内容
+打开 includes/header.html并且点击 🖊   进入编辑，***将 ***xuejunma***全部修改为自己的用户名，如***stamax360***，***注意*** 修改一定需要点击🖊   进入编辑，不然无法修改。
 
 ```php 
 <li class="nav-link"><a href="{{ site.baseurl }}/" class="logo"><strong>主页</strong></a>
@@ -26,19 +25,19 @@
 ```
 
 ## 修改全局配置
-打开config.yml，将马学俊，邮箱等信息修改为自己的信息。如将***马学俊***修改自己的名字，如一诺9257.
+打开config.yml，将***马学俊，邮箱***等信息修改为自己的信息。如将***马学俊***修改自己的名字，如一诺9257.
 
 ```php
 # Site settings
 # 站点名字，也就是html的title 会显示在浏览器标签上。
-title: 马学俊
+title: 一诺9257
 #name: 马学俊
 # 站点副标题，会显示在首页上，可以不填。
 subtitle: 
 email: yinuoyumi@163.com
 ```
 
-## 页面内容
+## 修改页面内容
 * index.html 修改***主页***
 * aboutme.html 修改***简历***
 * research.html 修改***科研***
