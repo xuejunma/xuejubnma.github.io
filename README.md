@@ -1,12 +1,12 @@
 # 个人主页搭建介绍
 
 ## 注册github账号
-在https://github.com/ 注册一个账号，假设用户名是stamax360. ***注意：*** 用户名是唯一并且不可以修改，主页网址是https://用户名.github.io/ 。 
+在https://github.com/ 注册一个账号，假设用户名是stamax360. ***注意：*** 用户名是唯一并且不可以修改，个人主页网址是https://用户名.github.io/ 。 
 
 ## Fork 并且修改名字
 
-- 输入网址 https://github.com/xuejunma/xuejunma.github.io/ 并且点击 **Fork**. xuejunma.github.io仓库便复制到您的仓库中。
-***注意：*** 只有Fork到自己的仓库下才能修改内容。 Fork需要一会。另外，修改内容不会立刻出现在主页上，时间由网速决定。
+- 输入网址 https://github.com/xuejunma/xuejunma.github.io/ 并且点击 **Fork**. xuejunma.github.io仓库便拷贝到您的仓库中。
+***注意：*** 只有Fork到自己的仓库下才能修改内容。 Fork需要一些时间。另外，修改内容不会立刻出现在个人主页上，时间由网速决定。
 
 - 点击 **setting**  将 ***xuejunma***.github.io 修改为自己用户名，如 ***stamax360***.github.io. 
 
@@ -27,7 +27,7 @@
 ```
 
 ## 修改全局配置
-打开config.yml，将***马学俊，邮箱***等信息修改为自己的信息。如将***马学俊***修改自己的名字，如一诺9257.
+打开config.yml，将 ***马学俊，邮箱*** 等信息修改为自己的信息。如将 ***马学俊*** 修改自己的名字，如一诺9257.
 
 ```php
 # Site settings
@@ -40,11 +40,11 @@ email: yinuoyumi@163.com
 ```
 
 ## 修改页面内容
-* index.html 修改***主页***
-* aboutme.html 修改***简历***
-* research.html 修改***科研***
-* teaching.html 修改***教学***
-* yanxitang.html 修改***言蹊堂***
+* index.html 修改 ***主页***
+* aboutme.html 修改 ***简历***
+* research.html 修改 ***科研***
+* teaching.html 修改 ***教学***
+* yanxitang.html 修改 ***言蹊堂***
 
 ### 以index.html为例说明。
 
