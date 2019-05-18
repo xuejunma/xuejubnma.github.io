@@ -49,7 +49,7 @@ email: yinuoyumi@163.com
 ### 以index.html为例说明。
 
 * 将所有***马学俊***的信息全部修改为自己的信息。
-* 图片修改，在仓库界面点击***profilepicturenew.jpg***直接删掉；再点击***Uploads files*** 上传一个命名为***profilepicturenew.jpg***图片。 ***注意*** 图片的名字一定是profilepicturenew.jpg，如果不是，将下面命令的名字修改为自己的图片名字。
+* 图片修改，在仓库界面点击***profilepicturenew.jpg***直接删掉；再点击***Uploads files*** 上传一个命名为***profilepicturenew.jpg***图片。 ***注意*** 图片的名字一定是profilepicturenew.jpg，如果不是，将下面命令的图片名字修改为自己的图片名字。
 
 ```php   
 ---
@@ -105,8 +105,8 @@ title: <font face="Kaiti"> 马学俊 </font>
 
 ```
 
-* 回到仓库主页面，点击***Create new file***，并且命令为xiuxian.html;
-* 点击xiuxian.html，进入编辑页面，输入下面内容。
+* 回到仓库主页面，点击***Create new file***，并且命名为xiuxian.html;
+* 点击xiuxian.html，进入编辑页面，输入下面内容保存即可。
 
 ```php
 ---
@@ -120,8 +120,8 @@ permalink: /xiuxian/
  大家可以直接在搜索引擎中收索***html常见命令***，会出现很多资料。
  
 ## 感谢
-特别感谢[Pesoto](https://pesoto.github.io/)创造了模板。
+特别感谢[Pesoto](https://pesoto.github.io/)创建了模板。
 
-目前网页基本属于自己的，其他的修改，如果有任何问题麻烦邮箱联系我,谢谢！
+目前网页基本完成。如果有任何问题麻烦邮箱联系我，谢谢！
 
 
