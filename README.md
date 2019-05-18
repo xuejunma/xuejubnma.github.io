@@ -35,22 +35,25 @@ title: 马学俊
 # 站点副标题，会显示在首页上，可以不填。
 subtitle: 博后
 email: yinuoyumi@163.com
+```
 
 ## 页面内容
+* index.html 修改***主页***
+* aboutme.html 修改***简历***
+* research.html 修改***科研***
+* teaching.html 修改***教学***
+* yanxitang.html 修改***言蹊堂***
+
+### 以index.html为例说明。
+
+* 将所有***马学俊***的信息全部修改为自己的信息。如果不知道 其中的命令含义，而可以html常见命令，会有很详细的介绍。
+* 图片修改，可以直接在仓库点击***profilepicturenew.jpg***，然后直接删掉；在点击***Uploads files*** 上传一个命名为***profilepicturenew.jpg***图片。
 
 ```php   
 ---
 layout: page
 title: <font face="Kaiti"> 马学俊 </font>
 ---
-<div class="home">
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108085250-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-108085250-1');
-</script>
 
 <img src="profilepicturenew.jpg" alt="stmax pic" style="width:200px;height:220px;" title="stamax "; algin="middle">
 <br>
@@ -62,12 +65,10 @@ title: <font face="Kaiti"> 马学俊 </font>
 <br>
 邮箱: yinuoyumi@163.com
 
-```php
+```
 
-## 菜单栏
-主页、简历等菜单栏可以在 includes/header.html 修改
 
-## 社交账号
+## 修改社交账号
 网页下面的社交平台  includes/footer.html修改
 
 ## 全局配置
@@ -77,6 +78,6 @@ title: <font face="Kaiti"> 马学俊 </font>
 * index.html 修改主页
 * aboutme.html 修改简历
 * research.html 修改科研等
-
+在点击***Create new file*** 并且明明为
 
 
