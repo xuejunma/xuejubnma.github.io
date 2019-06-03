@@ -19,11 +19,11 @@
 
 ```php 
 <li class="nav-link"><a href="{{ site.baseurl }}/" class="logo"><strong>主页</strong></a>
-<li class="nav-link"><a href="https://stamax360.github.io/aboutme"><strong>简历</strong></a>
+<li class="nav-link"><a href="https://stamax360.github.io/cv"><strong>简历</strong></a>
 <li class="nav-link"><a href="https://xuejunma.github.io/research"><strong>科研</strong></a>
 <li class="nav-link"><a href="https://xuejunma.github.io/teaching"><strong>教学</strong></a>
 <li class="nav-link"><a href="https://xuejunma.github.io/yanxitang"><strong>言蹊堂</strong></a>
-<li class="nav-link"><a href="https://xuejunma.github.io/englishversion"><strong>ENGLISHVERSION</strong></a>
+<li class="nav-link"><a href="https://xuejunma.github.io/englishcv"><strong>ENGLISHVERSION</strong></a>
 ```
 
 ## 修改全局配置
@@ -41,7 +41,7 @@ email: yinuoyumi@163.com
 
 ## 修改页面内容
 * index.html 修改 ***主页***
-* aboutme.html 修改 ***简历***
+* cv.html 修改 ***简历***
 * research.html 修改 ***科研***
 * teaching.html 修改 ***教学***
 * yanxitang.html 修改 ***言蹊堂***
