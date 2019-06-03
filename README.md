@@ -45,6 +45,7 @@ email: yinuoyumi@163.com
 * research.html 修改 ***科研***
 * teaching.html 修改 ***教学***
 * yanxitang.html 修改 ***言蹊堂***
+* englishcv.html 修改 ***ENGLISHVERSION***
 
 ### 以index.html为例说明。
 
