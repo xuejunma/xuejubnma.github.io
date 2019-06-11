@@ -35,8 +35,6 @@
 title: 一诺9257
 #name: 马学俊
 # 站点副标题，会显示在首页上，可以不填。
-subtitle: 
-email: yinuoyumi@163.com
 ```
 
 ## 修改页面内容
@@ -68,7 +66,7 @@ title: <font face="Kaiti"> 马学俊 </font>
 <br>
 苏州大学
 <br>
-邮箱: yinuoyumi@163.com
+邮箱: xuejunma@suda.edu.cn
 
 ```
 
